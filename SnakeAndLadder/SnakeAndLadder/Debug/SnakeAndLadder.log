@@ -1,7 +1,0 @@
-﻿  main.cpp
-  misc.cpp
-  Generating Code...
-C:\xampp\htdocs\website\snake and ladder\SnakeAndLadder\SnakeAndLadder\res\classes\diceRoll.h(82): warning C4715: 'diceRol::still': not all control paths return a value
-C:\xampp\htdocs\website\snake and ladder\SnakeAndLadder\SnakeAndLadder\res\classes\diceRoll.h(59): warning C4715: 'diceRol::stillS': not all control paths return a value
-C:\xampp\htdocs\website\snake and ladder\SnakeAndLadder\SnakeAndLadder\res\classes\diceRoll.h(105): warning C4715: 'diceRol::stillT': not all control paths return a value
-  SnakeAndLadder.vcxproj -> C:\xampp\htdocs\website\snake and ladder\SnakeAndLadder\Debug\SnakeAndLadder.exe
