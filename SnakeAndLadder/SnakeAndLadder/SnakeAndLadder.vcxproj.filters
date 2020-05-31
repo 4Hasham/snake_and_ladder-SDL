@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="sources\main.cpp" />
+    <ClCompile Include="sources\misc.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="res\classes\image.h" />
+    <ClInclude Include="res\classes\font.h" />
+    <ClInclude Include="res\classes\player.h" />
+    <ClInclude Include="res\classes\paraphernalia.h" />
+    <ClInclude Include="res\classes\orientations.h" />
+    <ClInclude Include="res\classes\diceRoll.h" />
+  </ItemGroup>
+</Project>
